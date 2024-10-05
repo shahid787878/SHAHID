@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SHAHID/static/css/main.6ad42c53.css",
+    "main.js": "/SHAHID/static/js/main.a86ca537.js",
+    "static/js/453.8ab91145.chunk.js": "/SHAHID/static/js/453.8ab91145.chunk.js",
+    "index.html": "/SHAHID/index.html",
+    "main.6ad42c53.css.map": "/SHAHID/static/css/main.6ad42c53.css.map",
+    "main.a86ca537.js.map": "/SHAHID/static/js/main.a86ca537.js.map",
+    "453.8ab91145.chunk.js.map": "/SHAHID/static/js/453.8ab91145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad42c53.css",
+    "static/js/main.a86ca537.js"
+  ]
+}
